@@ -86,6 +86,7 @@ fun PerfilSection() {
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold
         )
+        Spacer(modifier = Modifier.height(16.dp))
         Text(
             text = "Android Developer Extraordinaire",
             fontSize = 16.sp,
